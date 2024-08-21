@@ -1,0 +1,10 @@
+Fname,Lname,SSN,BDATE,Address,Sex,Salary,Superssn,Dno
+Ahmed,Ali,112233,1965-01-01,15 Ali Fahmy St. Giza,M,1400.00,223344,10
+Hanaa,Sobhy,123456,1973-03-18,38 Abdel Khalik Tharwat St. Downtown. Cairo,F,800.00,223344,10
+Kamel,Mohamed,223344,1970-10-15,38 Mohy el dien abo el Ezz St. Cairo,M,1800.00,321654,10
+John,Doe,224466,,NULL,NULL,1500.00,NULL,20
+Amr,Omran,321654,1963-09-14,44 Hilopolis. Cairo,M,2500.00,NULL,NULL
+Edward,Hanna,512463,1972-08-19,18 Abaas El 3akaad St. Nasr City. Cairo,M,1500.00,321654,30
+Maged,Raoof,521634,1980-04-06,18 Kholosi st. Shobra. Cairo,M,1000.00,968574,30
+Mariam,Adel,669955,1982-06-12,269 El-Haram st. Giza,F,750.00,512463,20
+Noha,Mohamed,968574,1975-02-01,55 Orabi St. El Mohandiseen. Cairo,F,1600.00,321654,20

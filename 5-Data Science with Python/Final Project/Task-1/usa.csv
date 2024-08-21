@@ -1,0 +1,13 @@
+browser,operating_sys,from_url,to_url,city,latitude,longitude,time_zone,time_in,time_out
+Mozilla/5.0 AppleWebKit/535.11 Chrome/17.0.963.78 Safari/535.11,Windows NT 6.1,www.facebook.com,www.ncbi.nlm,Danvers,42.576698,-70.954903,America/New_York,1333307030,1333307037
+,,www.AwareMap.com,www.monroecounty.gov,Provo,40.218102,-111.613297,America/Denver,1331923249,1308262393
+Mozilla/4.0 Trident/4.0,Windows NT 6.1,,,Washington,38.9007,-77.043098,America/New_York,1333407030,1333407035
+Mozilla/5.0 AppleWebKit/534.52.7 Version/5.1.2 Safari/534.52.7,,,,Braz,-23.549999,-46.616699,America/Sao_Paulo,1333507030,1333507044
+Mozilla/5.0 AppleWebKit/535.11 Chrome/17.0.963.79 Safari/535.11,Windows NT 6.1,www.shrewsbury-ma,www.shrewsbury-ma,Shrewsbury,42.286499,-71.714699,America/New_York,1333607030,1333607039
+Mozilla/5.0 AppleWebKit/535.11 Chrome/17.0.963.79 Safari/535.11,Windows NT 6.1,www.shrewsbury-ma,www.shrewsbury-ma,Shrewsbury,42.286499,-71.714699,America/New_York,1333707030,1333707048
+Mozilla/5.0 AppleWebKit/535.11 Chrome/17.0.963.79 Safari/535.11,Windows NT 5.1,,www.nasa.gov,Luban,51.116699,15.2833,Europe/Warsaw,1333807030,1333807040
+Mozilla/5.0 Gecko/20100101 Firefox/4.0.1,Windows NT 6.1,www.facebook.com,www.nasa.gov,,,,,1334007036,13340070364
+Opera/9.80 Presto/2.10.254 Version/12.00,,www.facebook.com,www.nasa.gov,,,,,1333907030,1333907042
+Mozilla/5.0 AppleWebKit/535.11 Chrome/17.0.963.79 Safari/535.11,Windows NT 6.1,,,,,,,1334007030,1334007040
+Mozilla/5.0 Gecko/20100101 Firefox/10.0.2,Windows NT 6.1,,www.nysdot.gov,Seattle,47.5951,-122.332603,America/Los_Angeles,1334107030,1334107040
+Mozilla/5.0 Gecko/20120216 Firefox/3.6.27,,,,Washington,38.937599,-77.092796,America/New_York,1334207040,1334207043

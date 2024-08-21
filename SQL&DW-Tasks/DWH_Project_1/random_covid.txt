@@ -1,0 +1,25 @@
+Europe,Austria,8/21/2020,24762,,,9043072
+North America,Belize,8/27/2020,818,,,404915
+North America,Anguilla,10/11/2020,3,,,15125
+Africa,Niger,7/24/2020,1124,,,25130810
+North America,Nicaragua,12/8/2020,5887,,,6702379
+Asia,Tajikistan,10/14/2020,10297,,,9749625
+South America,Peru,3/15/2020,43,,,33359415
+Oceania,Fiji,5/26/2020,18,,,902899
+North America,British Virgin Islands,12/8/2020,72,,,30423
+Asia,Japan,3/21/2020,1059,,,126050796
+Europe,Spain,11/28/2020,1628208,,,46745211
+Asia,Bangladesh,12/10/2020,485965,,,166303494
+Africa,Ghana,7/31/2020,35501,,,31732128
+Europe,Germany,6/24/2020,191449,,,83900471
+Asia,Myanmar,9/17/2020,4299,,,54806014
+South America,Venezuela,10/24/2020,89142,,,28704947
+Europe,Portugal,10/28/2020,128392,,,10167923
+Asia,China,2/29/2020,79251,,,1444216102
+North America,Jamaica,11/25/2020,10488,,,2973462
+Europe,Romania,4/24/2020,10417,,,19127772
+Europe,Bulgaria,10/19/2020,30527,,,6896655
+Asia,Bangladesh,12/20/2020,500713,,,166303494
+Asia,China,12/5/2020,91446,,,1444216102
+Europe,France,4/12/2020,108720,,,67422000
+Africa,Nigeria,10/4/2020,59345,,,211400704
