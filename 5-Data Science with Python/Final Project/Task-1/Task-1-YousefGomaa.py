@@ -57,8 +57,9 @@ def main():
                 df['time_in'] = df['t']
                 df['time_out'] = df['hc']
             else:
-                df['time_in'] = pd.to_datetime(df['t'], unit='s')
-                df['time_out'] = pd.to_datetime(df['hc'], unit='s')
+                
+                df['time_in'] = pd.to_datetime(df['t'], unit='s', errors='coerce')
+                df['time_out'] = pd.to_datetime(df['hc'], unit='s', errors='coerce')
         
             df.drop(['a', 'c', 'nk', 'tz', 'gr', 'g', 'h', 'l', 'al', 'hh', 'r', 'u', 't', 'hc', 'cy', 'll'], axis=1, inplace=True)
 
@@ -71,7 +72,7 @@ def main():
             
             df.drop_duplicates(inplace=True)
             
-            df.to_csv(output_path + '\\' + file.split('.')[0] + '.csv', index=False)
+            df.to_csv(output_path + '\\' + file.split('.')[0] +f"-u={unix}" + '-YousefGomaa' + '.csv', index=False)
            
             print(f'{len(df)} rows transformed and saved to:\n\t {output_path + '\\' + file.split(".")[0] + ".csv"}')
             
